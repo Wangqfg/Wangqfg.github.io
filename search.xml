@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>test2</title>
+      <link href="/posts/13bb8d58.html"/>
+      <url>/posts/13bb8d58.html</url>
+      
+        <content type="html"><![CDATA[<h1>标签 分类功能测试</h1>]]></content>
+      
+      
+      <categories>
+          
+          <category> 编程学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> c++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test</title>
       <link href="/posts/d87f7e0c.html"/>
       <url>/posts/d87f7e0c.html</url>
